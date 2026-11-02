@@ -1,7 +1,9 @@
 # HD-Pixel-Pack-Converter
 A tool to convert the MHGU HD Pixel Pack to work for MHXX Nintendo Switch Ver. Also includes an English Patch based on [Klark231's MHXX 3DS English Patch](https://gbatemp.net/threads/mhxx-complete-english-patch.609362/)
 
-Note that some XX exclusive gear may or may not be retextured. I do not plan on creating new textures for those at this moment.
+Note that some XX exclusive gear may or may not be retextured. I do not plan on creating new textures for those. 
+
+This is not affiliated with the original HD Pixel Pack. Please do not contact the creators of it if you experience any issues. 
 
 # Requirements
 - HD Pixel Pack (Manual Install). You can download it [here](https://www.reddit.com/r/MonsterHunter/comments/1icfs4z/mhgu_hd_texture_mod_60_fps_and_multiplayer_2025/)
@@ -20,6 +22,8 @@ Note that some XX exclusive gear may or may not be retextured. I do not plan on 
 3. Once fully converted, enable the mod and launch the game.
 - If on a CFW Switch, put the textures in sdcard:/atmosphere/content/[Game ID]/romfs/
 
+If for some reason you only want to use the English Patch, then you can simply extract the .zip into your mod data directory.
+
 # Event Quest Information
 Event quests by default will still be in Japanese. This is because they store their text inside of your save file rather than the game's text files.
 I have already prepared a clean DLC save that includes all DLC + translated text. This can be found in HDPixelPackConverter/assets/CleanDLCSave
@@ -35,6 +39,7 @@ If using an existing save, this requires some extra setup. Make sure to back up 
 If saving the game worked, then you can safely save and quit. The translated event quests should now be present.
 
 If you're on a CFW Switch, I have no idea how to add the translated DLC to an existing save file on the switch itself. For now I suggest you perform this on an emulator and then transfer your save back.
+
 
 # Credits
 Pixel Clover for distributing the HD Pixel Pack
