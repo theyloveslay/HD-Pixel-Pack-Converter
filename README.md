@@ -33,6 +33,8 @@ If using an existing save, this requires some extra setup. Make sure to back up 
 4. Save the game at your bed. Do not close the game.
 If saving the game worked, then you can safely save and quit. The translated event quest should now be present.
 
+If you're on a CFW Switch, I have no idea how to add the translated DLC to an existing save file. For now I suggest you perform this on an emulator and then transfer your save back.
+
 # Credits
 Pixel Clover for distributing the HD Pixel Pack
 Monkbruh for creating the MHGU HD Project
