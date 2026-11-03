@@ -9,7 +9,7 @@ This is not affiliated with the original HD Pixel Pack. Please do not contact th
 - HD Pixel Pack (Manual Install). You can download it [here](https://www.reddit.com/r/MonsterHunter/comments/1icfs4z/mhgu_hd_texture_mod_60_fps_and_multiplayer_2025/)
 - A dump of the game's romFS (search how to do it for CFW Switch or emulator)
 - Python 3.10.0 or higher
-- Windows 10/11 (will provide Linux script in the future)
+- Windows 10/11 or Linux
 
 # Installation
 1. Download the latest HDPixelPackConverter.zip
